@@ -1,1 +1,2 @@
-# DNA-reverse-complement
+# This file contains bio-relevant research tools.-for fun
+#DNA-reverse-complement
